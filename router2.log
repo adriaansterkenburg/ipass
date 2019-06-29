@@ -1,0 +1,230 @@
+Apr 16 21:31:18 192.168.2.251 : %SEC-6-IPACCESSLOGP: list 150 denied tcp 62.140.132.8(11062) -> 0.0.0.0(22), 1 packet 
+Apr 16 21:34:19 192.168.2.251 : %SEC-6-IPACCESSLOGP: list 150 denied tcp 62.140.132.8(3580) -> 0.0.0.0(22), 1 packet 
+Jun 17 07:23:15 145.89.194.9 : %SYS-5-CONFIG_I: Configured from console by ernst on vty0 (145.89.194.1)
+Jun 17 07:23:16 145.89.194.9 : %SYS-6-LOGGINGHOST_STARTSTOP: Logging to host 145.89.194.49 Port 514 started - CLI initiated
+Jun 20 00:53:19 145.89.194.11 15w3d: %SYS-5-CONFIG_I: Configured from console by ernst on vty0 (145.89.194.9)
+Jun 20 00:53:20 145.89.194.11 15w3d: %SYS-6-LOGGINGHOST_STARTSTOP: Logging to host 145.89.194.49 Port 514 started - CLI initiated
+Jun 20 07:15:00 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/6, changed state to up
+Jun 20 07:15:01 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/8, changed state to up
+Jun 20 07:15:01 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/3, changed state to up
+Jun 20 07:15:01 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/6, changed state to down
+Jun 20 07:15:01 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/8, changed state to up
+Jun 20 07:15:03 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/3, changed state to up
+Jun 20 07:15:04 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/2, changed state to up
+Jun 20 07:15:04 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/6, changed state to up
+Jun 20 07:15:06 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/6, changed state to up
+Jun 20 07:15:06 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/3, changed state to down
+Jun 20 07:15:07 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/2, changed state to down
+Jun 20 07:15:07 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/3, changed state to down
+Jun 20 07:15:09 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/2, changed state to up
+Jun 20 07:15:09 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/2, changed state to up
+Jun 20 07:15:13 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/3, changed state to up
+Jun 20 07:15:13 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/3, changed state to up
+Jun 20 07:15:15 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/8, changed state to down
+Jun 20 07:15:16 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/8, changed state to down
+Jun 20 07:15:19 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/6, changed state to down
+Jun 20 07:15:20 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/8, changed state to up
+Jun 20 07:15:20 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/6, changed state to down
+Jun 20 07:15:20 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/8, changed state to up
+Jun 20 07:15:21 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/3, changed state to down
+Jun 20 07:15:21 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/2, changed state to down
+Jun 20 07:15:21 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/3, changed state to down
+Jun 20 07:15:23 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/6, changed state to up
+Jun 20 07:15:23 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/2, changed state to down
+Jun 20 07:15:23 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/6, changed state to up
+Jun 20 07:15:25 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/3, changed state to up
+Jun 20 07:15:25 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/3, changed state to up
+Jun 20 07:15:28 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/2, changed state to up
+Jun 20 07:15:28 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/2, changed state to up
+Jun 20 07:17:49 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+Jun 20 07:17:51 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/7, changed state to up
+Jun 20 07:17:51 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+Jun 20 07:17:53 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/7, changed state to down
+Jun 20 07:17:53 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+Jun 20 07:17:55 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+Jun 20 07:17:57 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/5, changed state to up
+Jun 20 07:17:58 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/4, changed state to up
+Jun 20 07:17:58 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/5, changed state to up
+Jun 20 07:17:59 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/7, changed state to up
+Jun 20 07:17:59 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/7, changed state to up
+Jun 20 07:18:00 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/4, changed state to up
+Jun 20 07:18:07 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+Jun 20 07:18:08 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+Jun 20 07:18:09 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/7, changed state to down
+Jun 20 07:18:09 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/7, changed state to down
+Jun 20 07:18:09 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/5, changed state to down
+Jun 20 07:18:10 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+Jun 20 07:18:10 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/5, changed state to down
+Jun 20 07:18:10 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+Jun 20 07:18:12 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/7, changed state to up
+Jun 20 07:18:12 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/7, changed state to up
+Jun 20 07:18:13 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/4, changed state to down
+Jun 20 07:18:14 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/4, changed state to down
+Jun 20 07:18:17 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/5, changed state to up
+Jun 20 07:18:17 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/5, changed state to up
+Jun 20 07:18:18 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/4, changed state to up
+Jun 20 07:18:18 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/4, changed state to up
+Jun 20 07:19:05 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/10, changed state to up
+Jun 20 07:19:05 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/12, changed state to up
+Jun 20 07:19:05 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/10, changed state to up
+Jun 20 07:19:08 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/12, changed state to down
+Jun 20 07:19:10 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/12, changed state to up
+Jun 20 07:19:10 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/12, changed state to up
+Jun 20 07:19:13 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/10, changed state to down
+Jun 20 07:19:14 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/10, changed state to down
+Jun 20 07:19:16 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/10, changed state to up
+Jun 20 07:19:16 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/10, changed state to up
+Jun 20 07:19:18 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/12, changed state to down
+Jun 20 07:19:19 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/12, changed state to down
+Jun 20 07:19:22 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/12, changed state to up
+Jun 20 07:19:22 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/16, changed state to up
+Jun 20 07:19:22 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/14, changed state to up
+Jun 20 07:19:22 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/12, changed state to up
+Jun 20 07:19:23 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/16, changed state to up
+Jun 20 07:19:23 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/14, changed state to up
+Jun 20 07:19:29 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/16, changed state to down
+Jun 20 07:19:30 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/16, changed state to down
+Jun 20 07:19:32 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/16, changed state to up
+Jun 20 07:19:32 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/16, changed state to up
+Jun 20 07:19:36 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/14, changed state to down
+Jun 20 07:19:37 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/14, changed state to down
+Jun 20 07:19:39 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/16, changed state to down
+Jun 20 07:19:40 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/16, changed state to down
+Jun 20 07:19:43 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/16, changed state to up
+Jun 20 07:19:43 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/16, changed state to up
+Jun 20 07:19:50 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/13, changed state to up
+Jun 20 07:19:50 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/13, changed state to up
+Jun 20 07:19:53 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/15, changed state to up
+Jun 20 07:19:53 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/15, changed state to up
+Jun 20 07:19:57 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/13, changed state to down
+Jun 20 07:19:58 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/11, changed state to up
+Jun 20 07:19:58 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/13, changed state to down
+Jun 20 07:19:58 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/11, changed state to up
+Jun 20 07:20:00 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/14, changed state to up
+Jun 20 07:20:00 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/14, changed state to up
+Jun 20 07:20:01 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/13, changed state to up
+Jun 20 07:20:01 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/13, changed state to up
+Jun 20 07:20:04 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/23, changed state to up
+Jun 20 07:20:04 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/23, changed state to up
+Jun 20 07:20:06 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/15, changed state to down
+Jun 20 07:20:07 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/21, changed state to up
+Jun 20 07:20:07 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/15, changed state to down
+Jun 20 07:20:07 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/21, changed state to up
+Jun 20 07:20:08 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/13, changed state to down
+Jun 20 07:20:08 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/13, changed state to down
+Jun 20 07:20:09 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/23, changed state to down
+Jun 20 07:20:10 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/19, changed state to up
+Jun 20 07:20:10 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/23, changed state to down
+Jun 20 07:20:10 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/19, changed state to up
+Jun 20 07:20:11 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/11, changed state to down
+Jun 20 07:20:12 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/13, changed state to up
+Jun 20 07:20:12 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/11, changed state to down
+Jun 20 07:20:12 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/13, changed state to up
+Jun 20 07:20:12 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/23, changed state to up
+Jun 20 07:20:12 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/21, changed state to down
+Jun 20 07:20:13 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/18, changed state to up
+Jun 20 07:20:13 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/23, changed state to up
+Jun 20 07:20:13 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/21, changed state to down
+Jun 20 07:20:14 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/18, changed state to up
+Jun 20 07:20:16 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/21, changed state to up
+Jun 20 07:20:17 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/19, changed state to down
+Jun 20 07:20:17 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/21, changed state to up
+Jun 20 07:20:18 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/19, changed state to down
+Jun 20 07:20:18 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/11, changed state to up
+Jun 20 07:20:19 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/11, changed state to up
+Jun 20 07:20:19 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/18, changed state to down
+Jun 20 07:20:20 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/18, changed state to down
+Jun 20 07:20:20 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/19, changed state to up
+Jun 20 07:20:21 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/19, changed state to up
+Jun 20 07:20:22 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/18, changed state to up
+Jun 20 07:20:22 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/18, changed state to up
+Jun 20 07:20:24 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/23, changed state to down
+Jun 20 07:20:25 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/23, changed state to down
+Jun 20 07:20:25 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/22, changed state to up
+Jun 20 07:20:27 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/22, changed state to up
+Jun 20 07:20:27 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/24, changed state to up
+Jun 20 07:20:27 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/23, changed state to up
+Jun 20 07:20:27 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/21, changed state to down
+Jun 20 07:20:28 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/20, changed state to up
+Jun 20 07:20:28 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/24, changed state to up
+Jun 20 07:20:28 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/23, changed state to up
+Jun 20 07:20:28 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/21, changed state to down
+Jun 20 07:20:28 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/20, changed state to up
+Jun 20 07:20:29 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/15, changed state to up
+Jun 20 07:20:29 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/15, changed state to up
+Jun 20 07:20:31 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/25, changed state to up
+Jun 20 07:20:31 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/21, changed state to up
+Jun 20 07:20:32 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/19, changed state to down
+Jun 20 07:20:32 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/22, changed state to down
+Jun 20 07:20:32 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/25, changed state to up
+Jun 20 07:20:32 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/21, changed state to up
+Jun 20 07:20:33 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/19, changed state to down
+Jun 20 07:20:33 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/22, changed state to down
+Jun 20 07:20:34 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/18, changed state to down
+Jun 20 07:20:34 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/20, changed state to down
+Jun 20 07:20:35 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/18, changed state to down
+Jun 20 07:20:35 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/20, changed state to down
+Jun 20 07:20:35 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/19, changed state to up
+Jun 20 07:20:36 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/25, changed state to down
+Jun 20 07:20:36 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/19, changed state to up
+Jun 20 07:20:37 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/25, changed state to down
+Jun 20 07:20:37 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/18, changed state to up
+Jun 20 07:20:37 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/20, changed state to up
+Jun 20 07:20:38 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/18, changed state to up
+Jun 20 07:20:38 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/20, changed state to up
+Jun 20 07:20:39 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/22, changed state to up
+Jun 20 07:20:39 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/25, changed state to up
+Jun 20 07:20:39 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/22, changed state to up
+Jun 20 07:20:41 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/24, changed state to down
+Jun 20 07:20:41 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/25, changed state to up
+Jun 20 07:20:42 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/24, changed state to down
+Jun 20 07:20:47 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/24, changed state to up
+Jun 20 07:20:47 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/24, changed state to up
+Jun 20 07:20:48 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/22, changed state to down
+Jun 20 07:20:49 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/22, changed state to down
+Jun 20 07:20:50 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/20, changed state to down
+Jun 20 07:20:51 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/20, changed state to down
+Jun 20 07:20:51 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/25, changed state to down
+Jun 20 07:20:52 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/22, changed state to up
+Jun 20 07:20:52 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/25, changed state to down
+Jun 20 07:20:52 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/22, changed state to up
+Jun 20 07:20:54 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/20, changed state to up
+Jun 20 07:20:54 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/20, changed state to up
+Jun 20 07:20:55 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/25, changed state to up
+Jun 20 07:20:55 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/25, changed state to up
+Jun 20 07:22:41 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/12, changed state to down
+Jun 20 07:22:42 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/12, changed state to down
+Jun 20 07:22:45 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/12, changed state to up
+Jun 20 07:22:45 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/12, changed state to up
+Jun 20 07:22:54 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/10, changed state to down
+Jun 20 07:22:55 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/10, changed state to down
+Jun 20 07:22:58 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/10, changed state to up
+Jun 20 07:22:58 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/10, changed state to up
+Jun 20 07:23:09 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/16, changed state to down
+Jun 20 07:23:10 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/16, changed state to down
+Jun 20 07:23:12 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/16, changed state to up
+Jun 20 07:23:12 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/16, changed state to up
+Jun 20 08:37:36 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/13, changed state to down
+Jun 20 08:37:37 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/13, changed state to down
+Jun 20 08:38:42 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/13, changed state to up
+Jun 20 08:38:42 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/13, changed state to up
+Jun 20 08:38:55 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/13, changed state to down
+Jun 20 08:38:56 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/13, changed state to down
+Jun 20 08:39:05 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/13, changed state to up
+Jun 20 08:39:05 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/13, changed state to up
+Jun 20 08:39:09 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/13, changed state to down
+Jun 20 08:39:10 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/13, changed state to down
+Jun 20 08:39:12 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/13, changed state to up
+Jun 20 08:39:12 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/13, changed state to up
+Jun 20 08:41:21 145.89.194.11 15w3d: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/13, changed state to down
+Jun 20 08:41:22 145.89.194.11 15w3d: %LINK-3-UPDOWN: Interface GigabitEthernet0/13, changed state to down
+Jun 20 07:48:58 145.89.194.1 : %SYS-5-CONFIG_I: Configured from console by ernst on vty0 (145.89.194.49)
+Jun 20 07:49:00 145.89.194.1 : %SYS-6-LOGGINGHOST_STARTSTOP: Logging to host 145.89.194.49 Port 514 started - CLI initiated
+Jun 20 07:50:07 145.89.194.1 : %SEC_LOGIN-5-LOGIN_SUCCESS: Login Success [user: ernst] [Source: 145.89.194.49] [localport: 22] at 08:50:07 CET Tue Jun 20 2017
+Jun 20 07:51:53 145.89.194.1 : %SEC-6-IPACCESSLOGS: list 78 denied 145.89.190.15 7 packets
+Jun 20 07:53:53 145.89.194.1 : %SEC-6-IPACCESSLOGS: list 78 denied 145.89.190.14 86 packets
+Jun 26 15:28:36 145.89.194.13 : %SPANTREE-2-BLOCK_PVID_LOCAL: Blocking GigabitEthernet0/3 on VLAN0638. Inconsistent local vlan.
+Jun 26 15:28:36 145.89.194.13 : %SPANTREE-2-RECV_PVID_ERR: Received BPDU with inconsistent peer vlan id 701 on GigabitEthernet0/3 VLAN646.
+Jun 26 15:28:36 145.89.194.13 : %SPANTREE-2-BLOCK_PVID_LOCAL: Blocking GigabitEthernet0/3 on VLAN0646. Inconsistent local vlan.
+Jun 26 15:28:36 145.89.194.13 : %SPANTREE-2-RECV_PVID_ERR: Received BPDU with inconsistent peer vlan id 702 on GigabitEthernet0/3 VLAN641.
+Jun 26 15:28:36 145.89.194.13 : %SPANTREE-2-BLOCK_PVID_LOCAL: Blocking GigabitEthernet0/3 on VLAN0641. Inconsistent local vlan.
