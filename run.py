@@ -1,7 +1,7 @@
 file_in = open('router2.log', 'r')
 file_out = open(r'outfile.txt', 'w')
 
-lines = file_in.readlines();
+lines = file_in.readlines()
 
 def process_line(line):
     class Line:
