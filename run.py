@@ -1,6 +1,7 @@
 from collections import Counter
+import collections
 
-file_in = open('router2.log', 'r')
+file_in = open('router1.log', 'r')
 file_out = open(r'outfile.txt', 'w')
 
 lines = file_in.readlines()
@@ -45,7 +46,7 @@ def process_link_3(line):
             self.interface = interface
             self.status = status
             self.date_time = date_time
-        
+
     payload = line.payload
 
     return Link3(
@@ -54,6 +55,20 @@ def process_link_3(line):
         date_time = line.date_time
     )
 
+
+def process_sec_6(line):
+    class Sec6:
+        def __init__(self, ip, packets):
+            self.ip = ip
+            self.packets = packets
+
+    payload = line.payload
+    print(payload)
+    return Sec6(
+        ip = payload[3],
+        packets = payload[4]
+    )
+    
 
 # initialize lists for sorting
 link_3 = []
@@ -68,14 +83,33 @@ for line in processed_lines:
         processed_line = process_link_3(line)
         link_3.append(processed_line)
     if code ==  '%SEC-6-IPACCESSLOGS':
-        print('*** %SEC-6-IPACCESSLOGS')
+        processed_line = process_sec_6(line)
+        sec_6.append(processed_line)
     if code == '%SPANTREE-2-BLOCK_PVID_LOCAL': 
         print('*** %SPANTREE-2-BLOCK_PVID_LOCAL')
 
-link_3.sort(key = lambda line: line.interface)
+# link_3.sort(key = lambda line: line.interface)
+# sorted_result = Counter(getattr(line, 'interface') for line in link_3)
 
-sorted_result = Counter(getattr(line, 'interface') for line in link_3)
-print(sorted_result)
+c = Counter()
+for line in link_3:
+    interface = line.interface
+    c[interface] += 1
+# print(c.most_common(5))
+
+packets = 0
+for line in sec_6:
+    packets += int(line.packets)
+
+c = Counter()
+for line in sec_6:
+    ip = line.ip
+    c[ip] += int(line.packets)
+
+print(c)
+
+print(packets)
+
 
         
 
