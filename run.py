@@ -1,3 +1,5 @@
+from collections import Counter
+
 file_in = open('router2.log', 'r')
 file_out = open(r'outfile.txt', 'w')
 
@@ -62,7 +64,6 @@ span_tree_2 = []
 for line in processed_lines:
     # get code, cut last character
     code = line.code[:-1]
-    print(code)
     if code == '%LINK-3-UPDOWN':
         processed_line = process_link_3(line)
         link_3.append(processed_line)
@@ -71,6 +72,10 @@ for line in processed_lines:
     if code == '%SPANTREE-2-BLOCK_PVID_LOCAL': 
         print('*** %SPANTREE-2-BLOCK_PVID_LOCAL')
 
+link_3.sort(key = lambda line: line.interface)
+
+sorted_result = Counter(getattr(line, 'interface') for line in link_3)
+print(sorted_result)
 
         
 
