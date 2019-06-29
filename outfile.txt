@@ -1,0 +1,8 @@
+De 5 interfaces die het vaakst up of daan zijn geweest zijn: 
+[('GigabitEthernet0/2,', 947), ('GigabitEthernet0/21,', 808), ('GigabitEthernet0/6,', 804), ('GigabitEthernet0/3,', 771), ('GigabitEthernet0/23,', 766)]
+
+In totaal zijn 3063 tegengehouden op basis van informatie in %SEC-6-IPACCESSLOGDP regels
+
+De top 20 van IP adressen waarvandaan de meeste TCP packets tegengehouden zijn, op basis van informatie in %SEC-6-IPACCESSLOGP regels.
+[]
+

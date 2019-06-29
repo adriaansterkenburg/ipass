@@ -77,7 +77,7 @@ def process_sec_6_log_p(line):
             self.ip = ip
             self.packets = packets
             self.protocol = protocol
-            self.permission
+            self.permission = permission
 
     payload = line.payload
     # file_out.writelines(payload)
@@ -143,7 +143,7 @@ file_out.writelines('In totaal zijn ' + str(packets) + ' tegengehouden op basis 
 c = Counter()
 for line in sec_6_log_p:
     ip = line.ip
-    if (line[protocol] == 'tcp') and (line[permission] == 'DENIED'):
+    if (line.protocol == 'tcp') and (line.permission == 'DENIED'):
         c[ip] += int(line.packets)
 file_out.writelines('De top 20 van IP adressen waarvandaan de meeste TCP packets tegengehouden zijn, op basis van informatie in %SEC-6-IPACCESSLOGP regels.\n' + str(c.most_common(20)) + '\n\n')
 
